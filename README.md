@@ -11,7 +11,7 @@ MIT-BIH Atrial Fibrillation Database: https://physionet.org/content/afdb/1.0.0/
 ---
 
 ## Device Specification
-| Komponen | Spesifikasi |
+| Component | Specification |
 | :--- | :--- |
 | **Processor** | AMD Ryzen 5 5600XT |
 | **GPU** | NVIDIA GeForce RTX 5060 8GB |
@@ -27,7 +27,9 @@ MIT-BIH Atrial Fibrillation Database: https://physionet.org/content/afdb/1.0.0/
 ### 1. Clone repository
 ```bash
 git clone https://github.com/achmadrzm/af_detection.git
+```
 
+```bash
 cd af_detection
 ```
 
